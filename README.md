@@ -42,3 +42,20 @@ The final Dashboard utilizes a variety of visuals to represent the data:
 * **Scatter Charts**
 * **KPI Cards**
 * **Buttons/Navigation**
+---
+## ✨ Dashboard
+Here you can see the dashboard design and KPI's implemented in the Power BI Dashboard
+### Home / Overview
+<img width="1313" height="735" alt="d1" src="https://github.com/user-attachments/assets/442ba591-8223-4258-90c5-fd153a657b09" />
+
+### Server Performance Analysis
+<img width="1306" height="720" alt="d2" src="https://github.com/user-attachments/assets/bcce7fbf-16a2-4116-88fe-ed33211dd87c" />
+
+### Server Sales and Tips
+<img width="1310" height="729" alt="d3" src="https://github.com/user-attachments/assets/aec4dea5-4dc2-4f3e-8a20-c0a42a184b66" />
+
+### Server Order Efficiency
+<img width="1311" height="724" alt="d4" src="https://github.com/user-attachments/assets/3eec8689-a79c-4884-8a4b-98b30d2bdff6" />
+
+### KPI Tracking
+<img width="1308" height="729" alt="d5" src="https://github.com/user-attachments/assets/80ac9345-d12f-43ce-96f7-aa97beaea188" />
